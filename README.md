@@ -1,4 +1,2 @@
-opencanvas.github.io
-====================
-
-A simple web page which references our open source projects. http://opencanvas.github.io
+### OpenCanvas
+A collection of our open source projects. Check out http://opencanvas.github.io
